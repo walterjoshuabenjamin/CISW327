@@ -1,0 +1,59 @@
+body {background-color: #000000;
+	font-family: Georgia;
+	color: #FFF8DC;	
+}
+header {background-image: url(IMG_5396.JPG);
+		background-repeat: no-repeat;
+		background-position: center;
+		height: 150px;
+		padding-bottom: 20px;
+		background-size: 100%;
+		background-clip: border-box;
+		min-width: 700px;
+		max-width: 1024px;
+}
+h1 {color: #B8860B;
+	font-size: 3em;
+	text-align: center;
+}
+h2 {color: #B8860B;
+	text-align: center;
+	font-weight: bold;
+}
+p { color: #FFF8DC;
+	font-size: 1.5em;
+	text-align: left;
+}
+dt {text-align: right;}
+footer {background-image: url(html.jpg);
+		background-repeat: no-repeat;
+		background-position: center;
+		height: 120px;
+		padding-bottom: 20px;
+		background-size: 100%;
+		background-clip: border-box;
+		min-width: 700px;
+		max-width: 1024px;
+}
+#wrapper {min-width: 700px;
+		max-width: 1024px;
+		
+}
+#csusbanner{background-image: url(sacstatelogo.jpg);
+			background-repeat: no-repeat;
+			background-position: left;
+			height: 120px;
+			background-clip: content-box;
+			text-align: right;
+			padding: 10px;
+			font-size: 2em;
+}
+#sccbanner{background-image: url(saccitylogo.jpg);
+		background-repeat: no-repeat;
+		background-position: left;
+		background-clip: content-box;
+		height: 120px;
+		text-align: right;
+		padding: 10px;
+		font-size: 2em;
+}
